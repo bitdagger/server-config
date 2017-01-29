@@ -1,0 +1,15 @@
+cower
+gtk2-theme-dust
+hhvm
+openafs
+openafs-modules
+pacaur
+php-cs-fixer
+phpstorm
+phpunit
+ruby-sass
+sublime-text-dev
+system76-driver
+ttf-ms-fonts
+wp-cli
+xflux
